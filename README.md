@@ -1,14 +1,14 @@
 ![logo](https://github.com/GurdeepSingh-767/GurdeepSingh-767/blob/main/Black%20Modern%20Graphic%20Designer%20Linkedin%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Gurdeep Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="gurdeep-77" width="400" align="right"/>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Web Devlopment(MERN) , UI/UX**
+- 💬 Ask me about **Web Devlopment , UI/UX  **
 
-- 📫 How to reach me **gs20020515@gmail.com**
+- 📫 How to reach me **gurdeepsingh772002@gmail.com**
 
 
 <p align="left">
